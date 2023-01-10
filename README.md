@@ -5,4 +5,4 @@
 ## Integrantes do grupo : 
 ### - Kaio Lucas Mazzotti
 ### - Jessica Pansini
-### - Edson Freire
+### - Edson Garcia
