@@ -1,0 +1,15 @@
+C:\projetoscsharp\ForcaAdaSinqia\ForcaAdaSinqia\bin\Debug\net6.0\ForcaAdaSinqia.exe
+C:\projetoscsharp\ForcaAdaSinqia\ForcaAdaSinqia\bin\Debug\net6.0\ForcaAdaSinqia.deps.json
+C:\projetoscsharp\ForcaAdaSinqia\ForcaAdaSinqia\bin\Debug\net6.0\ForcaAdaSinqia.runtimeconfig.json
+C:\projetoscsharp\ForcaAdaSinqia\ForcaAdaSinqia\bin\Debug\net6.0\ForcaAdaSinqia.dll
+C:\projetoscsharp\ForcaAdaSinqia\ForcaAdaSinqia\bin\Debug\net6.0\ForcaAdaSinqia.pdb
+C:\projetoscsharp\ForcaAdaSinqia\ForcaAdaSinqia\obj\Debug\net6.0\ForcaAdaSinqia.csproj.AssemblyReference.cache
+C:\projetoscsharp\ForcaAdaSinqia\ForcaAdaSinqia\obj\Debug\net6.0\ForcaAdaSinqia.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetoscsharp\ForcaAdaSinqia\ForcaAdaSinqia\obj\Debug\net6.0\ForcaAdaSinqia.AssemblyInfoInputs.cache
+C:\projetoscsharp\ForcaAdaSinqia\ForcaAdaSinqia\obj\Debug\net6.0\ForcaAdaSinqia.AssemblyInfo.cs
+C:\projetoscsharp\ForcaAdaSinqia\ForcaAdaSinqia\obj\Debug\net6.0\ForcaAdaSinqia.csproj.CoreCompileInputs.cache
+C:\projetoscsharp\ForcaAdaSinqia\ForcaAdaSinqia\obj\Debug\net6.0\ForcaAdaSinqia.dll
+C:\projetoscsharp\ForcaAdaSinqia\ForcaAdaSinqia\obj\Debug\net6.0\refint\ForcaAdaSinqia.dll
+C:\projetoscsharp\ForcaAdaSinqia\ForcaAdaSinqia\obj\Debug\net6.0\ForcaAdaSinqia.pdb
+C:\projetoscsharp\ForcaAdaSinqia\ForcaAdaSinqia\obj\Debug\net6.0\ForcaAdaSinqia.genruntimeconfig.cache
+C:\projetoscsharp\ForcaAdaSinqia\ForcaAdaSinqia\obj\Debug\net6.0\ref\ForcaAdaSinqia.dll
